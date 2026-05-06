@@ -1,0 +1,20 @@
+{
+  "TARGET_YIELD": 0.02,
+  "STOP_LOSS": -0.015,
+  "TRAILING_TRIGGER": 0.02,
+  "TRAILING_DROP": 0.01,
+  "MAX_TRADE_AMOUNT_USD": 15.0,
+  "DUPLICATE_MINUTES": 10,
+  "HOJAE_KEYWORDS": [
+    "Acquisition",
+    "Merger",
+    "Earnings Beat",
+    "Contract",
+    "인수",
+    "합병",
+    "수주",
+    "계약",
+    "승인",
+    "돌파"
+  ]
+}
